@@ -28,7 +28,7 @@ I have a genuine interest and enthusiasm for codding, and I have an aptitude to 
 
 1. Image finder, application to find images by name: https://solodkayat.github.io/goit-js-hw-13-image-finder/dist/
 
-   **I have experience in group progects of students:**
+   **I have experience in group project of students:**
 
    Pizza shop
 
